@@ -1,7 +1,7 @@
 # Data Structures in C 
 
 This repo is a little playground of C data structures.<br>
-Each folder is a self-contained project
+PS Each folder is a self-contained project
 
 ## 📂 `C-Linked-List` — Sparse Matrix
 
